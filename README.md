@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to FindItOn.com
 
-You can use the [editor on GitHub](https://github.com/davidloveridge/davidloveridge.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Home of the Uno and Nano Prototype Board PCB.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Uno and Nano Prototype Board PCB
 
-### Markdown
+This board can be used to build and deploy projects in a short time as the main wiring has already been completed for the display with easy access to all inputs outputs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Compatibility & Features
 
-```markdown
-Syntax highlighted code block
+ * Uno board compatible
+ * Nano board compatible
+ * WeMos D1 Dev Board  (limited use not lcd parallel but IC2 OK)
+ * LCD wiring parallel installed direct to display using the following digital outputs: LiquidCrystal lcd(12,11,5,4,3,8). Note The pins were chosen to allow the output D2to be free for interrupt use if required.
 
-# Header 1
-## Header 2
-### Header 3
+To complete the kit, you just need to install a 10K variable resistor and 220ohm resistor and header pins supplied in kit variant.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidloveridge/davidloveridge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+...
