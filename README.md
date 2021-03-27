@@ -5,9 +5,8 @@ been completed for the display with easy access to all inputs outputs.
 
 Additional Facia kit available allows for project to be mounted for a more permanent finish.
 
-<span class="fs-8">
 [Buy Now on eBay](https://www.ebay.co.uk/itm/233942671728){: .btn .btn-purple }
-</span>
+[Download PDF of Instructions](Uno_and_Nano_Prototype_Board.pdf){: .btn .btn-blue }
 
 **Uno board** compatible
 **Nano board** compatible
