@@ -6,7 +6,7 @@ been completed for the display with easy access to all inputs outputs.
 Additional Facia kit available allows for project to be mounted for a more permanent finish.
 
 <span class="fs-8">
-[Buy Now on eBay](https://www.ebay.co.uk/itm/233942671728){: .btn }
+[Buy Now on eBay](https://www.ebay.co.uk/itm/233942671728){: .btn .btn-purple }
 </span>
 
 **Uno board** compatible
