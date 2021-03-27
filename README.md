@@ -6,6 +6,7 @@ been completed for the display with easy access to all inputs outputs.
 Additional Facia kit available allows for project to be mounted for a more permanent finish.
 
 [Buy Now on eBay](https://www.ebay.co.uk/itm/233942671728){: .btn .btn-purple }
+
 [Download PDF of Instructions](Uno_and_Nano_Prototype_Board.pdf){: .btn .btn-blue }
 
 **Uno board** compatible
