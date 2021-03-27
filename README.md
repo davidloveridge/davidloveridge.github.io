@@ -5,6 +5,10 @@ been completed for the display with easy access to all inputs outputs.
 
 Additional Facia kit available allows for project to be mounted for a more permanent finish.
 
+<span class="fs-8">
+[Buy Now on eBay](https://www.ebay.co.uk/itm/233942671728){: .btn }
+</span>
+
 **Uno board** compatible
 **Nano board** compatible
 **WeMos D1 Dev Board** (limited use not lcd parallel but IC2 OK)
