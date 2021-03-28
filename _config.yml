@@ -1,4 +1,5 @@
-#theme: jekyll-theme-minimal
-remote_theme: pmarsceill/just-the-docs # purple theme
-remote_theme: ankitsultana/accent
+# theme: jekyll-theme-minimal
+# remote_theme: pmarsceill/just-the-docs # purple theme
+
+theme: jekyll-theme-cayman
 title: "FindItOn.com"
